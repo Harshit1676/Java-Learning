@@ -12,8 +12,5 @@ public class WrapperDemo {
         Integer obj = new Integer(100);
         int val  = obj.intValue();
         System.out.println("Unboxed: "+val);
-
-        
-
     }    
 }
